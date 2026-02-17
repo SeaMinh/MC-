@@ -52,5 +52,6 @@
 {buy:{id:"minecraft:charcoal",count:4,components:{"minecraft:custom_name":"\u00A7eThan Cao Cấp"}},sell:{id:"minecraft:diamond",count:1},maxUses:9999999},
 {buy:{id:"minecraft:charcoal",count:4,components:{"minecraft:custom_name":"\u00A7eThan Cao Cấp"}},sell:{id:"minecraft:emerald",count:1},maxUses:9999999},
 {buy:{id:"minecraft:charcoal",count:4,components:{"minecraft:custom_name":"\u00A7eThan Cao Cấp"}},sell:{id:"minecraft:enchanted_book",count:1,components:{"minecraft:stored_enchantments":{"minecraft:unbreaking":3}}},maxUses:9999999},
-{buy:{id:"minecraft:charcoal",count:4,components:{"minecraft:custom_name":"\u00A7eThan Cao Cấp"}},sell:{id:"minecraft:enchanted_book",count:1,components:{"minecraft:stored_enchantments":{"minecraft:mending":1}}},maxUses:9999999}
+{buy:{id:"minecraft:charcoal",count:4,components:{"minecraft:custom_name":"\u00A7eThan Cao Cấp"}},sell:{id:"minecraft:enchanted_book",count:1,components:{"minecraft:stored_enchantments":{"minecraft:mending":1}}},maxUses:9999999},
+{buy:{id:"minecraft:player_head",count:1},buyB:{id:"minecraft:golden_apple",count:8},sell:{id:"minecraft:enchanted_golden_apple",count:1},maxUses:2,rewardExp:0b}
 ]}}
